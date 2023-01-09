@@ -1,0 +1,17 @@
+h2{
+    width: 400px;
+    background-color: yellow;
+}
+
+.dwa{
+    visibility: hidden;
+}
+
+.cztery{
+    visibility: hidden;
+}
+
+img{
+    width: 70px;
+    height: 70px;
+}

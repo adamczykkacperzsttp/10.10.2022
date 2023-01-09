@@ -1,0 +1,54 @@
+#menu
+{
+    background-color: rgb(0, 0, 0);
+    width: 250px;
+    height: 500px;
+    align-items: center;
+    font-size: 25px;
+    float: left;
+    color: white;
+}
+
+a:visited{
+    color: white;
+}
+
+a:hover{
+    background-color: rgb(1, 103, 255);
+}
+
+#strona
+{
+    background-color: rgb(20, 20, 20);
+    height: 500px;
+    width: 1077px;
+    float: right;
+    font-size: 20px;
+    text-align: center;
+    align-items: center;
+    color: white;
+}
+
+#tytul
+{
+    background-color: rgb(0, 0, 0);
+    float: top;
+    width: 1400px;
+    height: 150px;
+    text-align: center;
+    font-size: 100px;
+}
+
+#neonowy{
+    text-align: center;
+    margin: 100px auto;
+    font-family: "
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #fff;
+    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0   20px #0320ff, 0 0 25px #0320ff, 0 0 30px #0320ff, 0 0 35px   #0320ff, 0 0 40px #0320ff;
+}
+
+.c2{
+    list-style-type: none;
+}
